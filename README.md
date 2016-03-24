@@ -1,3 +1,3 @@
 # hello-world
-practice
+practice:
 Learning to write applications without using codes
